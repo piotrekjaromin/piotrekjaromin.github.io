@@ -1,0 +1,126 @@
+{
+  "kategoria1": [
+    {
+      "question": "Pytanie 1 kategoria 1",
+      "answers": [
+        "odpowiedz11",
+        "odpowiedz12",
+        "odpowiedz13",
+        "odpowiedz14"
+      ],
+      "correct": "odpowiedz11"
+    },
+    {
+      "question": "Pytanie 2 kategoria 1",
+      "answers": [
+        "odpowiedz21",
+        "odpowiedz22",
+        "odpowiedz23",
+        "odpowiedz24"
+      ],
+      "correct": "odpowiedz21"
+    },
+    {
+      "question": "Pytanie 3 kategoria 1",
+      "answers": [
+        "odpowiedz31",
+        "odpowiedz32",
+        "odpowiedz33",
+        "odpowiedz34"
+      ],
+      "correct": "odpowiedz31"
+    },
+    {
+      "question": "Pytanie 4 kategoria 1",
+      "answers": [
+        "odpowiedz41",
+        "odpowiedz42",
+        "odpowiedz43",
+        "odpowiedz44"
+      ],
+      "correct": "odpowiedz41"
+    },
+    {
+      "question": "Pytanie 5 kategoria 1",
+      "answers": [
+        "odpowiedz51",
+        "odpowiedz52",
+        "odpowiedz53",
+        "odpowiedz54"
+      ],
+      "correct": "odpowiedz51"
+    }
+  ],"kategoria2": [
+    {
+      "question": "Pytanie 1 kategoria 2",
+      "answers": [
+        "odpowiedz11",
+        "odpowiedz12",
+        "odpowiedz13",
+        "odpowiedz14"
+      ],
+      "correct": "odpowiedz11"
+    },
+    {
+      "question": "Pytanie 2 kategoria 2",
+      "answers": [
+        "odpowiedz21",
+        "odpowiedz22",
+        "odpowiedz23",
+        "odpowiedz24"
+      ],
+      "correct": "odpowiedz21"
+    },
+    {
+      "question": "Pytanie 3 kategoria 2",
+      "answers": [
+        "odpowiedz31",
+        "odpowiedz32",
+        "odpowiedz33",
+        "odpowiedz34"
+      ],
+      "correct": "odpowiedz31"
+    },
+    {
+      "question": "Pytanie 4 kategoria 2",
+      "answers": [
+        "odpowiedz41",
+        "odpowiedz42",
+        "odpowiedz43",
+        "odpowiedz44"
+      ],
+      "correct": "odpowiedz41"
+    },
+    {
+      "question": "Pytanie 5 kategoria 2",
+      "answers": [
+        "odpowiedz51",
+        "odpowiedz52",
+        "odpowiedz53",
+        "odpowiedz54"
+      ],
+      "correct": "odpowiedz51"
+    },
+    {
+      "question": "Pytanie 6 kategoria 2",
+      "answers": [
+        "odpowiedz51",
+        "odpowiedz52",
+        "odpowiedz53",
+        "odpowiedz54"
+      ],
+      "correct": "odpowiedz51"
+    },
+    {
+      "question": "Pytanie 7 kategoria 2",
+      "answers": [
+        "odpowiedz71",
+        "odpowiedz72",
+        "odpowiedz73",
+        "odpowiedz74"
+      ],
+      "correct": "odpowiedz71"
+    }
+  ]
+
+}
